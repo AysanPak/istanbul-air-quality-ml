@@ -106,17 +106,26 @@ To understand how our work fits into the existing scientific dialogue, we analyz
 ```
 .
 ├── data/
-│   ├── raw_air_quality_data/         # Raw data from the monitoring network
-│   └── processed_data/               # Cleaned and preprocessed data
-├── notebooks/
-│   ├── 01_Data_Cleaning.ipynb          # Notebook for data preprocessing
-│   ├── 02_KMeans_Clustering.ipynb      # Analysis of the "Four Istanbuls"
-│   ├── 03_PCA_Analysis.ipynb           # Analysis of pollution drivers
-│   ├── 04_PM2.5_Prediction.ipynb       # Predictive modeling
-│   └── 05_Literature_Analysis.ipynb    # NLP on academic papers
-├── images/                           # Visualizations and charts for the report
-├── Istanbul_Air_Quality_Report.pdf   # The final project report
-└── README.md                         # You are here!
+│   ├── processed_data/
+│   │   └── istanbul_aksaray.parquet        # 1 sample station
+│   ├── raw_air_quality_data/
+│   │   └── Aksaray.csv                     # 1 sample station
+│   └── research_data/
+│       └── openalex_metadata.csv           # list of the research papers used in the actual project
+│       └── W1585705538_Air Pollution in Mega Cities_ A Case Study of Istanbul.txt           # 1 sample text
+│
+├── scripts/
+│   ├── 01_district_clustering.py
+│   ├── 02_pollution_pattern_analysis.py
+│   ├── 03_pm25_forecasting.py
+│   └── 04_literature_analysis.py
+│
+├── report/                                 
+│   └── Istanbul_Air_Quality_Report.pdf
+│
+├── README.md
+└── LICENSE
+
 ```
 
 ## Conclusion
