@@ -4,7 +4,7 @@
 
 # Istanbul Air Quality Analysis and Prediction
 
-> A comprehensive, data-driven analysis of Istanbul's air quality, revealing its complex pollution landscape through machine learning. This project explores whether Istanbul is a single city or multiple distinct pollution zones, identifies the primary drivers of pollution, and develops a predictive model for future air quality levels.
+> A data-driven analysis of Istanbul's air quality, revealing its complex pollution landscape through machine learning. This project explores whether Istanbul is a single city or multiple distinct pollution zones, identifies the primary drivers of pollution, and develops a predictive model for future air quality levels.
 
 This repository contains the code and findings for the "Istanbul Air Quality Report," a project for the Machine Learning with Big Data (VIA 509E) course at Istanbul Technical University.
 
@@ -32,8 +32,7 @@ This repository contains the code and findings for the "Istanbul Air Quality Rep
 5.  [Data Sources](#data-sources)
 6.  [Technologies Used](#technologies-used)
 7.  [Repository Structure](#repository-structure)
-8.  [How to Run](#how-to-run)
-9.  [Conclusion and Future Work](#conclusion-and-future-work)
+8.  [Conclusion](#conclusion)
 
 ## Executive Summary
 
