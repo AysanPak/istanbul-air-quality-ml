@@ -18,7 +18,6 @@ This repository contains the code and findings for the "Istanbul Air Quality Rep
 **Advisor:** Dr. Suha Tuna, Assistant Professor of Computational Science & Engineering
 
 ***
-<img width="1280" height="904" alt="Screenshot (1044)" src="https://github.com/user-attachments/assets/4251727d-5b3d-41b5-b271-e8571ba25450" />
 
 ## Table of Contents
 
@@ -49,6 +48,8 @@ This project presents a deep dive into Istanbul's air quality using a dataset of
 ## Methodology
 
 Our analysis is a multi-step process, with each chapter of our report building on the last.
+
+<img width="1280" height="904" alt="Screenshot (1044)" src="https://github.com/user-attachments/assets/ca0b8bd8-004a-4896-bea2-8b7a8ca0ca99" />
 
 ### 1. The Four Istanbuls: K-Means Clustering
 
