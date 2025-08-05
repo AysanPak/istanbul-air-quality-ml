@@ -87,7 +87,7 @@ To understand how our work fits into the existing scientific dialogue, we analyz
 2.  **Critical Infrastructure Gap:** A significant number of districts, particularly in the "Sultangazi Anomaly," lack PM2.5 monitoring. This creates a public health blind spot and artificially inflates compliance statistics.
 3.  **Pollution is Driven by Three Key Factors:** The interplay between traffic, industrial emissions, and photochemical activity is the primary driver of Istanbul's air quality.
 4.  **Accurate Prediction is Possible:** We demonstrated the ability to forecast PM2.5 levels with 94% accuracy, enabling proactive pollution management and public health warnings.
-5.  **A Novel Approach for the Region:** Our project addresses a gap in the literature by applying a big data and machine learning approach to on-the-ground sensor data in Istanbul.
+5.  **A Better Approach for the Region:** Our project addresses a gap in the literature by applying a big data and machine learning approach to on-the-ground sensor data in Istanbul.
 
 ## Data Sources
 
