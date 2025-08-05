@@ -112,7 +112,8 @@ To understand how our work fits into the existing scientific dialogue, we analyz
 │   │   └── Aksaray.csv                     # 1 sample station
 │   └── research_data/
 │       └── openalex_metadata.csv           # list of the research papers used in the actual project
-│       └── W1585705538_Air Pollution in Mega Cities_ A Case Study of Istanbul.txt           # 1 sample text
+│       └── texts/
+            └── W1585705538_Air Pollution in Mega Cities_ A Case Study of Istanbul.txt           # 1 sample text
 │
 ├── scripts/
 │   ├── 01_district_clustering.py
