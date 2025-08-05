@@ -18,6 +18,7 @@ This repository contains the code and findings for the "Istanbul Air Quality Rep
 **Advisor:** Dr. Suha Tuna, Assistant Professor of Computational Science & Engineering
 
 ***
+<img width="1280" height="904" alt="Screenshot (1044)" src="https://github.com/user-attachments/assets/4251727d-5b3d-41b5-b271-e8571ba25450" />
 
 ## Table of Contents
 
